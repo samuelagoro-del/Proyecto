@@ -22,6 +22,26 @@ public class Cliente {
 	}
 
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public void setDNI(Cliente dNI) {
 		DNI = dNI;
 	}
