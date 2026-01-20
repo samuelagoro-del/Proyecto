@@ -21,27 +21,6 @@ public class Cliente {
 		return DNI;
 	}
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	public void setDNI(Cliente dNI) {
 		DNI = dNI;
 	}
